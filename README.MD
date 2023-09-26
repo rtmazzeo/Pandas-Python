@@ -5,4 +5,4 @@ Importação de dados através de arquivo CSV<br>
 - Análise Exploratória (ex: média)<br>
 - Tratamento de valores nulos e remoção de valores inconsistentes e aplicação de filtros<br>
 - Criação de colunas (numéricas e categóricas)<br>
-![Imagem](cursos_python/certificados/certificado_pandas001.png)
+![Imagem](/certificados/certificado_pandas001.png)
