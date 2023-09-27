@@ -10,3 +10,7 @@
 - Criação de colunas (numéricas e categóricas)
 
 ![Imagem](certificados/certificado_pandas001.png)
+
+## Aula 2 -  Pandas I/O: trabalhando com diferentes formatos de arquivos
+
+- Ler e escrever arquivos nos formatos: CSV, EXCEL, JSON, HTML e XML
