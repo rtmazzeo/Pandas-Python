@@ -13,4 +13,11 @@
 
 ## Aula 2 -  Pandas I/O: trabalhando com diferentes formatos de arquivos
 
-- Ler e escrever arquivos nos formatos: CSV, EXCEL, JSON, HTML e XML
+- Manipulação de arquivos CVS;
+- Utilização de Planilhas (Excel e google sheets)
+- Manipulação arquivos JSON (com normalização)
+- Leitura de dados HTML e XML
+- Manipulação de bancos de dados
+
+![Imagem](certificados/certificado_pandas002.png)
+
