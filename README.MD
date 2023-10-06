@@ -13,6 +13,8 @@
 
 ## Aula 2 -  Pandas I/O: trabalhando com diferentes formatos de arquivos
 
+**Conteúdo:**
+
 - Manipulação de arquivos CVS;
 - Utilização de Planilhas (Excel e google sheets)
 - Manipulação arquivos JSON (com normalização)
@@ -20,4 +22,18 @@
 - Manipulação de bancos de dados
 
 ![Imagem](certificados/certificado_pandas002.png)
+
+## Aula 3 -  Pandas: Selecionando e Agrupando Dados
+
+**Conteúdo:**
+
+- Modificar o formato de um DataFrame (melt)
+- Construir tabela de dados agrupados (groupby)
+- Transformar dados de uma para várias colunas (pivot_table)
+- União de DataFrames (merge)
+- Criação de graficos com o metodo plot e a biblioteca Plotly
+
+![Imagem](certificados/certificado_pandas003.png)
+
+
 
