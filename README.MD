@@ -35,5 +35,21 @@
 
 ![Imagem](certificados/certificado_pandas003.png)
 
+## Aula 4 - Pandas: transformação e manipulação de dados
+
+**Conteúdo:**
+
+- Ler arquivos de dados no formato json
+- Normalizar a visualização dos dados (json_nomalize)
+- Identificar e transformar elementos dentro de listas em uma nova linha do DataFrame com explode;
+- Transformar dados textuais em numéricos com o método astype;
+- Tratar textos com dados numéricos para serem transformados com apply (1 coluna) e applymap (varias colunas)
+- Manipular elementos textuais em um DataFrame, utilizando expressões regulares (regex) para tratar o texto;
+- Transformar textos em listas;
+- Realizar o processo de tokenização de strings;
+- Identificar, transformar e manipular dados de tipo datetime.
+
+![Imagem](certificados/certificado_pandas004.png)
+
 
 
